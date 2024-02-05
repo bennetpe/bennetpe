@@ -1,5 +1,4 @@
 - 👋 
-- 📫 How to reach me bennet.pieper92@gmail.com
 
 <!---
 bennetpe/bennetpe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
